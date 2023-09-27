@@ -8,6 +8,8 @@
 # PIL		
 # Scikit-Learn
 
+# FOR MORE DETAIL CHECK PPT
+
 
 
 
