@@ -1,0 +1,14 @@
+# IMAGE-CV-ML-PROJECT-ON-RECOGNISING-HANDWRITTEN-ALPHABETS 
+# LIBRARIES USED IN IMAGE ML PROJECT ARE:
+# Numpy
+# Pandas
+# os
+# Matplotlib
+# Seaborn
+# PIL		
+# Scikit-Learn
+
+
+
+
+
